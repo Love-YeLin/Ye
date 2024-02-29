@@ -1,3 +1,3 @@
 # Hello, I'm Ye
 
-https://github-readme-stats.vercel.app/api?username=Love-YeLin
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
